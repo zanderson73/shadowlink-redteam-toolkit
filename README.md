@@ -12,7 +12,7 @@ ShadowLink is a lightweight, modular Command & Control (C2) framework built for 
 
 ---
 
-## 🚀 Features
+## Features
 
 - Encrypted tasking using AES (CBC mode)
 - Agent check-ins with customizable interval
